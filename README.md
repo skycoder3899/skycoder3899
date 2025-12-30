@@ -1,51 +1,46 @@
-<h1 align="center">Hi 👋, I'm Prateek Kesharwani</h1>
-<h3 align="center">Backend Engineer | Java • Spring Boot • System Design | Cloud & DevOps (AWS, Terraform, Kubernetes)</h3>
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=150&section=header&text=Prateek%20Kesharwani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<h3 align="center" style="margin-top:-60px;">
+Backend Engineer • Java • Spring Boot • System Design • Cloud & DevOps
+</h3>
+
+<p align="center" style="margin-top:-10px;">
+AWS • Terraform • CI/CD • Kubernetes • PostgreSQL
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-kesharwani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Kesharwani-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://github.com/skycoder3899">
-    <img src="https://img.shields.io/github/followers/skycoder3899?label=Follow&style=social" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Kesharwani-blue?logo=linkedin&style=for-the-badge"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skycoder3899&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 👨‍💻 About Me
 
-I'm **Prateek Kesharwani**, a **Backend Engineer with 3.5+ years of experience** building **scalable and reliable backend systems using Java & Spring Boot**.  
-Along with strong **system design and API engineering**, I also work with **Cloud & DevOps tools** to deploy, automate, and scale applications.
+I’m **Prateek Kesharwani**, a **Backend Engineer with 3.5+ years of experience** building **scalable, high-performance enterprise systems** using **Java & Spring Boot**.  
+Along with strong **system design & API engineering**, I also work with **Cloud & DevOps tools** to deploy, automate, and scale applications in production.
 
-I focus on:
-- **High-performance backend services**
-- **Clean API design & system architecture**
-- **Cloud-native deployments using AWS**
-- **Automation using CI/CD, Terraform & Kubernetes**
-
----
-
-## 🧠 What I Do  
-
-- ⚙️ Build **RESTful & microservice-based backends**
-- 🧩 Apply **system design principles** (scalability, availability, data flow)
-- 🗄 Design and optimize **database-driven applications**
-- ☁️ Deploy backends on **AWS**
-- 🔄 Automate builds & deployments using **CI/CD**
-- 🐳 Containerize and orchestrate apps using **Docker & Kubernetes**
+I specialize in:
+- Designing **clean, scalable backend architectures**
+- Building **high-throughput REST & microservices**
+- Optimizing **database-driven applications**
+- Deploying backend systems on **AWS**
+- Automating infrastructure using **Terraform, CI/CD & Kubernetes**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
@@ -56,31 +51,21 @@ I focus on:
 
 ---
 
-## 📌 Current Focus  
+## 📊 GitHub Stats
 
-- ⚙️ Advanced **Java & Spring Boot**
-- 🧠 **System design & backend architecture**
-- ☁️ **AWS infrastructure using Terraform**
-- 🔄 **CI/CD pipelines**
-- 🐳 **Kubernetes for backend deployments**
+![Stats](https://github-readme-stats.vercel.app/api?username=skycoder3899&show_icons=true&hide_border=true)
 
----
+![Streak](https://streak-stats.demolab.com?user=skycoder3899&hide_border=true)
 
-## 📊 GitHub Stats  
-
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=skycoder3899&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=skycoder3899)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skycoder3899&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skycoder3899&layout=compact&hide_border=true)
 
 ---
 
-## 📍 Location & Availability  
+## 📍 Location & Availability
 
 📍 **Bengaluru, Karnataka**  
 💼 **Open to:** Backend Engineer | Java | Cloud & DevOps roles  
 
 ---
 
-> ⚡ *“I build scalable backend systems and power them with modern cloud infrastructure.”*
+> ⚡ *“I design backend systems that scale — and build the cloud infrastructure that powers them.”*
